@@ -3,10 +3,9 @@ Name : Dathan Johnson
 Section : 409
 Assignment : lab 9b - 3
 Date : 3-23-19
-
-Each month, you should calculate the amount remaining on the loan by first applying the
-monthly payment (reducing the loan value), then increasing the loan amount by 1/12 of the
-annual interest rate.
+By submitting this assignment, I agree to the following:
+“Aggies do not lie, cheat, or steal, or tolerate those who do”
+“I have not given or received any unauthorized aid on this assignment”
 """
 import csv
 # inputs for values
